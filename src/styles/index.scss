@@ -153,22 +153,30 @@
 }
 
 .testbg { 
-    background-image: url("../img/Vmarine.jpg");
+    background-image: url("../img/Timesheet2.jpg");
     height: 400px; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+.hookbg { 
+    background-image: url("../img/react_todo.jpg");
+    height: 350px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .aguabg { 
-    background-image: url("../img/aguaDeLuz.png");
-    height: 400px; 
+    background-image: url("../img/Bootstrap_Pattern.jpg");
+    height: 350px; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .todobg { 
-    background-image: url("../img/todolist.png");
+    background-image: url("../img/poker.jpg");
     height: 400px; 
     background-position: center;
     background-repeat: no-repeat;
@@ -177,6 +185,7 @@
 
 .mytext {
     font-size: 1.2rem;
+    text-align: left;
 }
 
 .btn-style:hover {
@@ -358,3 +367,31 @@
         height: 100%;
     }
 }
+
+.background-block {
+    float: left;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+.background-block .background {
+  width:100%;
+  vertical-align: top;
+  opacity: 0.9;
+  -webkit-filter: blur(0.5px);
+  filter: blur(0.5px);
+   -webkit-transform: scale(1.8);
+  transform: scale(2.8);
+}
+
+.profile-card-3 {
+    font-family: 'Open Sans', Arial, sans-serif;
+    position: relative;
+    float: left;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    height:368px;
+    border:none;
+  }
+
