@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.ea4fb2c5.chunk.css",
+    "main.js": "/personal-website/static/js/main.edb5013d.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.edb5013d.chunk.js.map",
+    "runtime~main.js": "/personal-website/static/js/runtime~main.93f2c6c9.js",
+    "runtime~main.js.map": "/personal-website/static/js/runtime~main.93f2c6c9.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/personal-website/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.911492f9.chunk.js": "/personal-website/static/js/2.911492f9.chunk.js",
+    "static/js/2.911492f9.chunk.js.map": "/personal-website/static/js/2.911492f9.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.12ae30b355d5e97e2e0fbc4850ac1a15.js": "/personal-website/precache-manifest.12ae30b355d5e97e2e0fbc4850ac1a15.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/personal-website/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.ea4fb2c5.chunk.css.map": "/personal-website/static/css/main.ea4fb2c5.chunk.css.map",
+    "static/media/index.scss": "/personal-website/static/media/react_todo.1d74db3b.jpg",
+    "static/media/Bootstrap_Pattern.png": "/personal-website/static/media/Bootstrap_Pattern.c73ea182.png",
+    "static/media/Timesheet.jpg": "/personal-website/static/media/Timesheet.f6bfa4af.jpg",
+    "static/media/myImage.jpg": "/personal-website/static/media/myImage.e84ffb1e.jpg",
+    "static/media/todolist.png": "/personal-website/static/media/todolist.ac82d97d.png"
+  }
+}
